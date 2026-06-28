@@ -7,12 +7,12 @@
 // console.log(colors.green('this tet is green'));
 
 
-// async function greet(){
-//   const speak = await import(./my_modules/greetings.js);
-//   console(speak.greetings);
-// }
+async function greet(){
+  const speak = await import(./my_modules/greetings.js);
+  console(speak.greetings);
+}
 
-// greet()
+greet()
 
 
 get
