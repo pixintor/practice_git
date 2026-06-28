@@ -7,7 +7,7 @@ function sayGoodbye(name) {
 }
 
 function appreciation(person){
-  return `Thank you ${person} for accepting my invitaion to be a guess at my 50 year bathday`;
+  return `Thank you ${person} for accepting my invitaion to be a guess at my 50 year birthday`;
 }
 
 module.exports = {

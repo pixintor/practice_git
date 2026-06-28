@@ -124,6 +124,7 @@ summarize(cryptoStats);
 
 const path = require("path");
 
+
 const filePath = process.argv[2];
 
 const fileName = path.basename(filePath);
