@@ -7,20 +7,15 @@
 // console.log(colors.green('this tet is green'));
 
 
-// async function greet(){
-//   const speak = await import(./my_modules/greetings.js);
-//   console(speak.greetings);
-// }
+async function greet(){
+  const speak = await import(./my_modules/greetings.js);
+  console(speak.greetings);
+}
 
-// greet()
+greet()
 
 
-// using the costom modele
-// const name = 'john';
-// const person = 'Oluwafemi';
-// console.log(colors.blue(greetings.sayHello(name)));
-// console.log(colors.red(greetings.sayGoodbye(name)));
-// console.log(colors.yellow(greetings.appreciation(person)));
+get
 
 // /////////Assignment 2   solution
 
