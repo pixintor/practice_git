@@ -41,7 +41,7 @@ function createWallet(){
 
     debit(amount){
       if(amount > balance){
-        return "insurficient Banlace always";
+        return "insurficient Banlace try";
       }
         balance -= amount;
     },
