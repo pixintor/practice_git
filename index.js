@@ -15,12 +15,7 @@
 // greet()
 
 
-// using the costom modele
-// const name = 'john';
-// const person = 'Oluwafemi';
-// console.log(colors.blue(greetings.sayHello(name)));
-// console.log(colors.red(greetings.sayGoodbye(name)));
-// console.log(colors.yellow(greetings.appreciation(person)));
+get
 
 // /////////Assignment 2   solution
 
